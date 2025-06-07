@@ -1,1 +1,3 @@
-"# alx_travel_app_0x00" 
+## Seeder
+
+To populate the database with dummy data, run:
